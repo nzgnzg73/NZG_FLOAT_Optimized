@@ -1,0 +1,6 @@
+__pycache__
+*.epr
+todas
+.*~
+.*.dst
+tags
